@@ -1,0 +1,12 @@
+{
+  "name": "edgecraft",
+  "version": "1.0.0",
+  "description": "SRM Full Stack Challenge - Hierarchical Node Relationship Analyzer",
+  "scripts": {
+    "dev": "cd backend && npm start",
+    "install:backend": "cd backend && npm install",
+    "install:frontend": "cd frontend",
+    "start:backend": "cd backend && npm start",
+    "start:frontend": "cd frontend"
+  }
+}
