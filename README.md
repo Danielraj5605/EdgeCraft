@@ -239,8 +239,8 @@ C->E
 
 | Service | URL | Status |
 |---------|-----|--------|
-| **Backend API** | `https://edgecraft-backend.onrender.com/bfhl` | 🚀 Live |
-| **Frontend** | `https://edgecraft-frontend.vercel.app` | 🚀 Live |
+| **Backend API** | `https://edgecraft-bfhl.onrender.com/bfhl` | 🚀 Live |
+| **Frontend** | Deploy to Vercel/Netlify and add URL | ⏳ Pending |
 
 ---
 

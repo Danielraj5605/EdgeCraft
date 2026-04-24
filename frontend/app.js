@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:3000/bfhl';
+const API_URL = 'https://edgecraft-bfhl.onrender.com/bfhl';
 
 const nodeInput = document.getElementById('nodeInput');
 const submitBtn = document.getElementById('submitBtn');
